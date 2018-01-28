@@ -1,11 +1,11 @@
 # crawler
 
 ## websites that have crawler:
-Neiman Marcus
-Net A Porter
-Nordstorm
-asos
-Ralph Lauren (located here: https://github.com/VinithaRavi/FashionDataEngine)
+1. Neiman Marcus
+2. Net A Porter
+3. Nordstorm
+4. asos
+5. Ralph Lauren (located here: https://github.com/VinithaRavi/FashionDataEngine)
 
 ## database located at:
 ssh root@159.203.75.132 
