@@ -32,5 +32,8 @@ class NetAPorterSpider(scrapy.Spider):
 		'url':response.url,
 		'price':price,
 		'color':response.css('li.color-picker').xpath('@data-color-name').extract(),
-		'style':['Coats']
+		'type':['Coats'],
+		'style':[],
+		'compatibility':[],
+		'portability':[]
 		}
